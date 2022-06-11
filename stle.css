@@ -1,0 +1,22 @@
+.entrydiv0,.entrydiv1, .entrydiv2{
+    width: 100;
+    height: 20px;
+}
+.entrydiv3{
+    width: 100;
+    height: 140px;
+}
+
+.newinp{
+    width: 100px;
+    height: 40px;
+}
+
+.submit12{
+    height:20px;
+    width: 50px;
+
+}
+.submit1{
+    visibility: hidden;
+}
